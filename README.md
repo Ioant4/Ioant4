@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ioant4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🌱 Building a foundation in:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/>
