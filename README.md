@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Triantafyllou Ioannis</h1>
 <h3 align="center">A passionate Software Engineering student from Greece</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ioant4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <h3 align="center">🌱 Building a foundation in:</h3>
 <p align="center">
