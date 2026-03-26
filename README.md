@@ -13,6 +13,3 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ioant4&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6" alt="GitHub Stats" />
-</p>
